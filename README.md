@@ -6,7 +6,7 @@ Bu depo, **YMGK** laboratuvar ödevleri ve çalışma raporlarını içermektedi
 
 | Hafta / Lab | Dosya Adı | Format |
 |-------------|-----------|--------|
-| **Lab 1**   | `tırsan-1.docx` | DOCX |
+| **Lab 1**   | `tırsan-1.pdf`  | PDF  |
 | **Lab 2**   | `tırsan-2.pdf`  | PDF  |
 | **Lab 3**   | `tırsan-3.pdf`  | PDF  |
 | **Lab 4**   | `tırsan-4.pdf`  | PDF  |

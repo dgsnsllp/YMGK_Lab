@@ -12,6 +12,7 @@ Bu depo, **YMGK** laboratuvar ödevleri ve çalışma raporlarını içermektedi
 | **Lab 4**   | `tırsan-4.pdf`  | PDF  |
 | **Lab 5**   | `tırsan-5.pdf`  | PDF  |
 | **Lab 6**   | `tırsan-6.pdf`  | PDF  |
+| **Lab 7**   | `tırsan-7.pdf`  | PDF  |
 
 ## 👤 Öğrenci Bilgileri
 - **Ad Soyad:** Mahmut DAĞAŞAN
